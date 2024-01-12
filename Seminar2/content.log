@@ -1,0 +1,356 @@
+дек. 25, 2023 3:11:15 PM GetContentOfDir getContentDir
+INFO: Begin
+дек. 25, 2023 3:11:15 PM GetContentOfDir getContentDir
+INFO: Get directory /root/
+дек. 25, 2023 3:11:15 PM GetContentOfDir getContentDir
+INFO: Get content of directory /root/
+дек. 25, 2023 3:11:15 PM GetContentOfDir getContentDir
+INFO: java.lang.NullPointerException
+дек. 25, 2023 3:11:15 PM GetContentOfDir getContentDir
+SEVERE: Cannot read the array length because "fileList" is null
+дек. 25, 2023 3:11:15 PM GetContentOfDir main
+WARNING: Can`t read contains of directory /root/
+дек. 25, 2023 3:16:12 PM GetContentOfDir getContentDir
+INFO: Begin
+дек. 25, 2023 3:16:12 PM GetContentOfDir getContentDir
+INFO: Get directory /root/
+дек. 25, 2023 3:16:12 PM GetContentOfDir getContentDir
+INFO: Get content of directory /root/
+дек. 25, 2023 3:16:12 PM GetContentOfDir getContentDir
+INFO: java.lang.NullPointerException
+дек. 25, 2023 3:16:12 PM GetContentOfDir getContentDir
+SEVERE: Cannot read the array length because "fileList" is null
+дек. 25, 2023 3:16:12 PM GetContentOfDir main
+WARNING: Can`t read contains of directory /root/
+дек. 25, 2023 3:16:24 PM GetContentOfDir getContentDir
+INFO: Begin
+дек. 25, 2023 3:16:24 PM GetContentOfDir getContentDir
+INFO: Get directory /home/beemaster
+дек. 25, 2023 3:16:24 PM GetContentOfDir getContentDir
+INFO: Get content of directory /home/beemaster
+дек. 25, 2023 3:16:24 PM GetContentOfDir main
+INFO: Successful reading contains of directory /home/beemaster
+дек. 25, 2023 3:16:24 PM WriteStringToFile writeStringToFile
+INFO: Successful write "/home/beemaster contains: " to file
+дек. 25, 2023 3:16:24 PM WriteStringToFile writeStringToFile
+INFO: Successful write "venv/" to file
+дек. 25, 2023 3:16:24 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".anydesk/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".viminfo" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "windows7.png" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "gb/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "fstab.dob" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-server-1752722.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "vivaldi/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-90256.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "package-lock.json" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "key.pub" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".wget-hsts" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "1Cv77.png" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-11658.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "work_debian-wg0.conf" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".wine/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Librum/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Общедоступные/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".gtkrc-2.0" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".net/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-39449.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "1С Предприятие WEB.png" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "mtkclient/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "sources.list" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Видео/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".rediscli_history" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "proxy.list" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".pki/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".local/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-client-6295.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "proxy1.list" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".dotnet/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".gitconfig" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "q" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".nanorc" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".1cv8/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".zshrc" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-client-1752720.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "winetricks" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-29672.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".node_repl_history" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "1" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Шаблоны/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".cinnamon/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "csdevkit/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bashrc" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-07245.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".dbus/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".themes/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".semgrep/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "fstab" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".profile.bak" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "azov.txt" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".dmrc" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".kde/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "alacritty/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".ICEauthority" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".xsession-errors.old" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "key.priv" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".zsh_history" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".hplip/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "1Cv77.ico" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-server-1753791.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".templateengine/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "bin/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "1Cv8.ico" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "TriangleTube/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "GeekBrains/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "notepadqq/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-77646.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".fleet/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".config/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "freetube_0.17.0_amd64.deb" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".icons/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-server-6297.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".tmux.conf" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "netcoredbg/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "obmen/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "IdeaProjects/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".openoffice/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "wget-log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "dnsproxy/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-out-1753791.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".Xauthority" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".ServiceHub/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".cache/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "lazygit.tar.gz" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Insync/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".sudo_as_admin_successful" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Python-3.11.4/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".idlerc/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".python_history" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".lesshst" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-73052.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".TranslationPlugin/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_logout" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".1C/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "dnsproxy.sh" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".xsession-errors" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Рабочий стол/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux.conf" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".java/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-53266.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".rustup/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "to_remove" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "go1.18.4.linux-amd64.tar.gz" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Flask/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".npm/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Projects/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "dotnet/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "SP_Flash_Tool-5.1916_Linux/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".android/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "grep" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "1Cv8.png" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "PycharmProjects/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Музыка/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "rc.local" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Загрузки/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Документы/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-87425.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".zoom/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".vscode/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-client-1753789.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "squashfs-root/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".zshenv" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".nv/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".fonts/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-50917.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "apt/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".gnupg/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".mono/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".nuget/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-out-1750112.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "package.json" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".tmux/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".zcompdump" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".mozilla/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-77808.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".omnisharp/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".profile" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".cargo/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "lazygit" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Изображения/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-client-1750110.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "Library/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-out-6297.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "kali.png" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".bash_history-65898.tmp" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".ssh/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "qt5/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".sane/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "wg0.conf" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "node_modules/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".nvidia-settings-rc" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-server-1750112.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "CERT/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "ICO/" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "clouds.sh" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write "tmux-out-1752722.log" to file
+дек. 25, 2023 3:16:25 PM WriteStringToFile writeStringToFile
+INFO: Successful write ".var/" to file

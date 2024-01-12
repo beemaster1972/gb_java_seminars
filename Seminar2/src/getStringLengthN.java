@@ -11,7 +11,7 @@ public class getStringLengthN {
         if ((N % 2) == 1) return "Не чётная длина строки!";
         StringBuilder result = new StringBuilder(N);
 
-        for (int i=0;i<N/2;i++) result.append(c1.toString() + c2.toString());
+        for (int i=0;i<N/2;i++) result.append(c1).append(c2);
         return result.toString();
     }
 }
