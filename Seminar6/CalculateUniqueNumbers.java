@@ -32,9 +32,8 @@ public class CalculateUniqueNumbers {
   }
 
   public static void main(String[] args) {
-    int[] array = setRandomArray(0, 2400, 1000);
-    // for (int el : array)
-    // System.out.printf("%s, ", el);
+    int min = 0, max = 500, count = 1000;
+    int[] array = setRandomArray(min, max, count);
     System.out.printf("Процент уникальных чисел = %s%%%n", getPercentUniqueNumbers(array));
   }
 }
